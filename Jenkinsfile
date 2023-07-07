@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Example') {
             steps {
-                echo 'Hello World neo'
+                echo 'Hello World neo test branch'
             }
         }
     }
